@@ -1,0 +1,15 @@
+/Users/usman/generator/obj/Debug/net5.0/generator.csproj.AssemblyReference.cache
+/Users/usman/generator/obj/Debug/net5.0/generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usman/generator/obj/Debug/net5.0/generator.AssemblyInfoInputs.cache
+/Users/usman/generator/obj/Debug/net5.0/generator.AssemblyInfo.cs
+/Users/usman/generator/obj/Debug/net5.0/generator.csproj.CoreCompileInputs.cache
+/Users/usman/generator/bin/Debug/net5.0/generator.deps.json
+/Users/usman/generator/bin/Debug/net5.0/generator.runtimeconfig.json
+/Users/usman/generator/bin/Debug/net5.0/generator.runtimeconfig.dev.json
+/Users/usman/generator/bin/Debug/net5.0/generator.dll
+/Users/usman/generator/bin/Debug/net5.0/ref/generator.dll
+/Users/usman/generator/bin/Debug/net5.0/generator.pdb
+/Users/usman/generator/obj/Debug/net5.0/generator.dll
+/Users/usman/generator/obj/Debug/net5.0/ref/generator.dll
+/Users/usman/generator/obj/Debug/net5.0/generator.pdb
+/Users/usman/generator/obj/Debug/net5.0/generator.genruntimeconfig.cache
